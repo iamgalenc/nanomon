@@ -5,9 +5,7 @@
   <img src="logo.png" alt="NanoMon Logo" width="200"/>
 </p>
 
-NanoMon is a cross-platform **Python + Arduino** project that monitors your **CPU load**, **RAM usage**, and **network upload/download speeds** in real time, and displays them on a **SSD1306 OLED**.  
-
-It’s lightweight, fun, and shows a **welcome smiley 🙂** when it starts, plus a **goodbye 👋** message when you quit.
+NanoMon is a lightweight cross-platform **Python + Arduino** project that monitors your **CPU load**, **RAM usage**, and **network upload/download speeds** in real time, and displays them on a **SSD1306 OLED**.  
 
 <p align="center"> <img src="product.jpeg" alt="Electrical Diagram" width="500"/> </p>
 

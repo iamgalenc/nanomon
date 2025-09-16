@@ -43,7 +43,8 @@ NanoMon is a lightweight cross-platform **Python + Arduino** project that monito
 | GND | GND | GND |
 | SDA | A4 | GPIO 21 |
 | SCL | A5 | GPIO 22 |
-⚠️ On some ESP32 boards, SDA/SCL may differ — check your board specs.
+
+> ⚠️ On some ESP32 boards, SDA/SCL may differ — check your board specs.
 
 ### Electrical Diagram
 <p align="center"> <img src="diagram.png" alt="Electrical Diagram" width="500"/> </p>
